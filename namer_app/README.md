@@ -1,17 +1,26 @@
-# namer_app
+# Namer App
 
-A new Flutter project.
+A Flutter app that generates random word-pair name ideas, lets you favorite the
+ones you like, and browse your favorites on a separate page. Built as part of
+the [Your First Flutter App](https://codelabs.developers.google.com/codelabs/flutter-codelab-first)
+codelab.
 
-## Getting Started
+## What it does
 
-This project is a starting point for a Flutter application.
+- Generates a random word pair (e.g. "massjob", "hornstreak") on load
+- **Next** button generates a new random pair
+- **Like** button saves/unsaves the current pair to a favorites list
+- A responsive navigation rail switches between the generator and a
+  Favorites page listing everything you've liked
+- The nav rail automatically shows text labels next to its icons once the
+  window is wide enough (≥600px), and just icons on narrower screens
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+*(add 2–3 screenshots here, e.g.)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Home | Favorites |
+|---|---|
+| ![Home page showing a word pair card](screenshot 1.png) | ![Favorites page listing liked words](screenshot 2png) |
+
+## Running it
