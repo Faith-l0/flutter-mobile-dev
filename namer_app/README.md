@@ -17,8 +17,6 @@ codelab.
 
 ## Screenshots
 
-*(add 2–3 screenshots here, e.g.)*
-
 | Home | Favorites |
 |---|---|
 | ![Home page showing a word pair card](screenshots/home.png) | ![Favorites page listing liked words](screenshots/favorites.png) |
