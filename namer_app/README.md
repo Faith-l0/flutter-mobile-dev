@@ -21,6 +21,5 @@ codelab.
 
 | Home | Favorites |
 |---|---|
-| ![Home page showing a word pair card](screenshot 1.png) | ![Favorites page listing liked words](screenshot 2png) |
-
+| ![Home page showing a word pair card](screenshots/home.png) | ![Favorites page listing liked words](screenshots/favorites.png) |
 ## Running it
